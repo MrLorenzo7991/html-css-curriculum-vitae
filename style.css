@@ -3,3 +3,13 @@
         margin-left: 250px;
         margin-right: 250px;
     }
+/*Testata*/
+    #testata {
+        border-bottom: 2px solid goldenrod;
+        background-color: lightgrey;
+    }
+    #foto {
+        display: block;
+        margin: auto;
+    }
+    h1 {text-align: center;}
