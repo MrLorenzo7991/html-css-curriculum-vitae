@@ -6,7 +6,7 @@
 /*Testata*/
     #testata {
         border-bottom: 2px solid goldenrod;
-        background-color: lightgrey;
+        background-color: rgb(226, 226, 226);
     }
     #foto {
         display: block;
@@ -18,6 +18,10 @@
     }
 /*Curriculum*/
     h2{
-        color: goldenrod;
+        color: rgb(204, 155, 30);
     }
 /*footer*/
+    #footer {
+        border-top: 1px solid goldenrod;
+        text-align: center;
+    }
